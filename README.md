@@ -85,3 +85,5 @@
 - [Using Fast Weights to Attend to the Recent Past] (notes/fast_weights.md) [[arXiv] (https://arxiv.org/abs/1610.06258)]
 
 - Quasi-Recurrent boilerplate Networks [[arXiv] (https://arxiv.org/abs/1611.01576)]
+
+# PR Merge: 2025-12-03 13:01:48
